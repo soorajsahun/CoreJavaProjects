@@ -1,4 +1,4 @@
-package hit.SendSms;
+package hit.SmsProject;
 
 import java.util.ArrayList;
 import java.util.Scanner;

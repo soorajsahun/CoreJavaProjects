@@ -1,4 +1,4 @@
-package hit.SendEmail;
+package hit.EmailProject;
 
 import java.util.Properties;
 import java.util.Scanner;
