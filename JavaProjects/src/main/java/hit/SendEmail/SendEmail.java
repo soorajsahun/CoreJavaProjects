@@ -1,4 +1,4 @@
-package hit.JavaProjects;
+package hit.SendEmail;
 
 import java.util.Properties;
 import java.util.Scanner;
@@ -24,7 +24,7 @@ public class SendEmail {
 				+ "\nThanks & Regards,<br/>Suraj Sahu,<br/>E-Mail: suraj.sahu.9484@gmail.com ,";
 	
 		String myEmailAccount="suraj.sahu.9484@gmail.com";
-		String password="**********";
+		String password="9819675309";
 		sendMailFromGmail(subject,textBody,myEmailAccount,password);
 	}
 
