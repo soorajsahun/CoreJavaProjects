@@ -24,7 +24,7 @@ public class SendEmail {
 				+ "\nThanks & Regards,<br/>Suraj Sahu,<br/>E-Mail: suraj.sahu.9484@gmail.com ,";
 	
 		String myEmailAccount="suraj.sahu.9484@gmail.com";
-		String password="9819675309";
+		String password="***********";
 		sendMailFromGmail(subject,textBody,myEmailAccount,password);
 	}
 
