@@ -9,8 +9,8 @@ import com.twilio.rest.api.v2010.account.Message;
 public class SendSms {
 	static int otp;
 	//Enter your Twilio ACCOUNT_SID & AUTH_TOKEN
-	public static final String ACCOUNT_SID ="ACebb31a3f3f3106b84bf0f5380edbae08";
-	public static final String AUTH_TOKEN ="27bc94a76e66cd95ab63fb8a98a3f9bc";
+	public static final String ACCOUNT_SID ="";
+	public static final String AUTH_TOKEN ="";
 	public static void sendSms() throws Exception {
 		int phoneNumberCount=1;
 		ArrayList<String> phoneNumbersList=new ArrayList<String>();
