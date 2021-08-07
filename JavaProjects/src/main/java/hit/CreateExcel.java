@@ -1,4 +1,5 @@
-package hit.PdfECertificateProject;
+package hit.ExcelProject;
+
 //reference
 //https://www.callicoder.com/java-write-excel-file-apache-poi/
 import java.io.FileOutputStream;
