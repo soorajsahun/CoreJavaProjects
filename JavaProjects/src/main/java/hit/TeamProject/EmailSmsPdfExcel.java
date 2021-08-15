@@ -19,7 +19,7 @@ public class EmailSmsPdfExcel {
 		String password="9819675309";
 		String fileName="E:\\PdfECertificateCreation\\ProgressReport.xls";
 		
-		System.out.println("Do you want your progress report card via mail?");
+		System.out.println("Do you want your progress report card via mail?YES/NO");
 		String response=scan.next();
 		//Create Excel
 		if(response.equalsIgnoreCase("yes")) {
