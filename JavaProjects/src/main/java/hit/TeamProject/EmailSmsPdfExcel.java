@@ -41,7 +41,7 @@ public class EmailSmsPdfExcel {
 			SendAttachmentByMail.sendMailFromGmail(subject, textBody, myEmailAccount, password);
 		}
 		else {
-			System.err.println("enter valid otp");
+			System.err.println("entered wrong otp");
 		}
 		
 		scan.close();
